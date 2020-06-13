@@ -4,3 +4,4 @@
 mvn clean install
 skaffold run -p dev
 reflex -r "\.java$" -- bash -c 'mvn install && skaffold run -p dev'
+
