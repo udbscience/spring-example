@@ -6,4 +6,3 @@
 # reflex -r "\.java$" -- bash -c 'mvn install && skaffold run -p dev'
 
 echo "hello" >> /tmp/text.txt
-
