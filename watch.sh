@@ -7,4 +7,3 @@
 
 echo "hello" >> /tmp/text.txt
 
-
